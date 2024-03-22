@@ -1,5 +1,5 @@
 ---
-name: ser Stort
+name: User Story
 about: Template for creating a user story.
 title: ''
 labels: ''
